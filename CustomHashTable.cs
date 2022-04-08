@@ -2,6 +2,12 @@
 {
     public class CustomHashTable
     {
+        private Object[] entry;
+
+        private void newEntry()
+        {
+
+        }
 
     }
 }
